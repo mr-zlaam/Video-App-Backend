@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "A pure backend to making the youtube backend ",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/mr-zlaam/MernBackendYoutube/issues"
   },
-  "homepage": "https://github.com/mr-zlaam/MernBackendYoutube#readme"
+  "homepage": "https://github.com/mr-zlaam/MernBackendYoutube#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
