@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/mr-zlaam/MernBackendYoutube#readme",
   "devDependencies": {
-    "nodemon": "^3.1.0"
+    "nodemon": "^3.1.0",
+    "prettier": "^3.2.5"
   }
 }
