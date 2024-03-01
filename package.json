@@ -1,0 +1,22 @@
+{
+  "name": "pure-backend-and-making-youtube-app",
+  "version": "1.0.0",
+  "description": "A pure backend to making the youtube backend ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mr-zlaam/MernBackendYoutube.git"
+  },
+  "keywords": [
+    "Backend"
+  ],
+  "author": "Zlaam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mr-zlaam/MernBackendYoutube/issues"
+  },
+  "homepage": "https://github.com/mr-zlaam/MernBackendYoutube#readme"
+}
